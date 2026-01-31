@@ -210,4 +210,4 @@ npm install
 npm start
 ```
 
-Devloper : T Venkataramana
+Developer : T Venkataramana
